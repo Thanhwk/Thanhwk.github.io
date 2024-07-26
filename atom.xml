@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">青语</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-07-25T17:43:49&#43;08:00</updated>
+    <updated>2024-07-26T11:52:01&#43;08:00</updated>
     <id>https://thanhwk.github.io/</id>
     <link rel="alternate" type="text/html" href="https://thanhwk.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://thanhwk.github.io/atom.xml" />
@@ -16,6 +16,54 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.129.0">Hugo</generator>
+        <entry>
+            <title type="text">称量一幅画</title>
+            <link rel="alternate" type="text/html" href="https://thanhwk.github.io/posts/weight_of_painting/" />
+            <id>https://thanhwk.github.io/posts/weight_of_painting/</id>
+            <updated>2024-07-26T11:51:41&#43;08:00</updated>
+            <published>2024-07-26T11:47:23&#43;08:00</published>
+            <author>
+                    <name>Thanh</name>
+                    <uri>https://thanhwk.github.io/</uri>
+                    <email>13682091973@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">来源/北大未名 hay 最近接触了许多有关恋爱相亲的现实，对爱情祛魅得比较严重（这里的祛魅偏重指的是爱情同道德美的剥离）。 在婚恋市场上，男性对女性的外貌、身材，女性对男性经济、能力和地……</summary>
+            
+                <content type="html">&lt;h4 id=&#34;来源北大未名-hay&#34;&gt;来源/北大未名 hay&lt;/h4&gt;
+&lt;p&gt;最近接触了许多有关恋爱相亲的现实，对爱情祛魅得比较严重（这里的祛魅偏重指的是爱情同道德美的剥离）。&lt;/p&gt;
+&lt;p&gt;在婚恋市场上，男性对女性的外貌、身材，女性对男性经济、能力和地位的互相挑选已经成为了明面之下人尽皆知的规则。在明面之上，大家会尽量避免使用这些有歧视意味的词汇，但在“暗”的层面，却又不由自主得依据这些标准进行对象筛选，只是在交流中以“合适”、“不合适”等表达代之。当然在这个过程中，会有很多人进行一些理性的思考，比如为了自己的后代均衡会选择跟自己各方面互补的，为了家庭稳定持久会要求三观相符忠厚老实的等等，但它们对于那些见不得人的动机，也只能起到相对中和而不是消除的作用。&lt;/p&gt;
+&lt;p&gt;可是当我们在孤独之时审视内心深处，却发现我们真正需要的是包容、理解和关爱，我们真正认同的是善良、同情和尊重。我们向神圣的爱情索取这些美丽元素构成的画卷，却会无法控制得使用秤而不是眼睛进行筛选，我们不停得调试我们的秤以求选择那些在外貌、身材、经济、能力和地位比较有分量的画，却闭上了我们的双眼。具体点来说，你很难见到一个事业有成地位显赫的男性寻求到一个相貌平庸甚至不佳的妻子，也很难见到一个面容身材姣好，学历较高的女性兼容一个在经济地位都不如她的丈夫。&lt;/p&gt;
+&lt;p&gt;我对爱情的祛魅过程如上，我承认爱情中确实会有美好的品质或者动机存在，但这些美好的品质和动机脱离了爱情仍然存在，换言之，爱情和道德美感是独立的，爱情有自己的游戏和交易规则，通常情况下，你所追求的那些美好品质的价值，并不作为筹码出现。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://thanhwk.github.io/categories/%E6%90%AC%E8%BF%90/" term="搬运" label="搬运" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://thanhwk.github.io/tags/%E7%88%B1%E6%83%85/" term="爱情" label="爱情" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">游戏后遗症</title>
             <link rel="alternate" type="text/html" href="https://thanhwk.github.io/posts/after_game/" />
